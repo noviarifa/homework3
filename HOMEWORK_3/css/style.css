@@ -1,0 +1,21 @@
+div.text-header h1{
+  font-size: 22px;
+}
+div.text-header h2{
+  font-size: 14px;
+  font-weight: 500;
+}
+.container {
+    width: 80%;
+    margin-top: 10%;
+  }
+  #date-part {
+    font-size: 1.2em;
+  }
+
+  #time-part {
+    font-size: 2em;
+  }
+  body {
+    background-color: white
+    }
